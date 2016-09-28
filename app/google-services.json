@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "665481806481",
+    "firebase_url": "https://pantrify.firebaseio.com",
+    "project_id": "pantrify",
+    "storage_bucket": "pantrify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665481806481:android:7fc5849593d111e4",
+        "android_client_info": {
+          "package_name": "de.com.pantrify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665481806481-kanrju0v583hgbqanf9aci3l7bqdl5f6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.com.pantrify",
+            "certificate_hash": "B5A140F98D41D1AE778A77B9F4F63676F8B59A82"
+          }
+        },
+        {
+          "client_id": "665481806481-t3duhlghsedkmcda7ba5j6b7eqa12t2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2TdVPlf8mmYv-tSnBo-FG4cO_p_5L2GY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665481806481-t3duhlghsedkmcda7ba5j6b7eqa12t2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

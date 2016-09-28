@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorLightLavender">#b3b3cc</color>
+
+
+    <!--Notification related-->
+    <color name="notificationClosedIconBG">#c43a5f</color>
+    <color name="notificationCOpenIconBG">#1a4f77</color>
+
+</resources>
