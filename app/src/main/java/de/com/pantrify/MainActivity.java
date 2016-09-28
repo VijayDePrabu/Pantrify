@@ -13,7 +13,7 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 import com.google.firebase.messaging.FirebaseMessaging;
-
+/* Author: De */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
     /* UI */
